@@ -1,4 +1,4 @@
-# Saucedemo Playwright Checkout Tests
+# Saucedemo Testing using Playwright 
 
 This repository contains automated tests for the checkout flow of the [Saucedemo](https://www.saucedemo.com/) website using [Playwright](https://playwright.dev/).
 
